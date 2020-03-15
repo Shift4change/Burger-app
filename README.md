@@ -13,7 +13,7 @@ the Third function Creates a new burger using the "Add Burger" button, which... 
 
 
 ## Demo
-![img](/img/First.png)
+![img](/img/first.png)
 
 ## Technologies used
 ![img](https://img.shields.io/badge/JavaScript-used-green)
